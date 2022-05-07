@@ -19,7 +19,7 @@ pip install pygame
 
 ## Play Game Now
 
-Play game [here](https://replit.com/@nicks111/Alien-Invasion-Game?v=1)
+Play game [here](https://replit.com/@nicks111/Snake-With-Python-1?v=1)
 
 ## Objective
 
