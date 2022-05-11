@@ -17,9 +17,13 @@ pip install pygame
 
 ![gameplay.gif](Images/gif/gameplay.gif)
 
+## Run exe Directly
+Download Alien-Invasion-Game-exe folder and dont make any changes
+in that folder just run game main.exe file directly.
+
 ## Play Game Now
 
-Play game [here](https://replit.com/@nicks111/Snake-With-Python-1?v=1)
+Play game [here](https://replit.com/@Nikhilhaspe/Snake-With-Python?v=1)
 
 ## Objective
 
