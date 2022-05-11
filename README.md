@@ -18,7 +18,7 @@ Download the source code from the repository and run the file just as any other 
 
 Just don't make any changes to the directory structure and run the following command in cmd,
 ```
-python main.py
+python Snake_Game.py
 ```
 , then you are good to go.
 
