@@ -31,7 +31,7 @@ updated as the game proceeds.
 
 ## Run exe Directly
 Download "Snake With Python exe" folder and dont make any changes
-in that folder just run game main.exe file directly.
+in that folder just run game Snake_Game.exe file directly.
 
 ## Play Game Now
 
